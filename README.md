@@ -1,3 +1,3 @@
 # Cookie-Recipe
 
-https://htmlpreview.github.io/?https://github.com/GalactyceCookie-Recipe/blob/master/index.html
+ https://htmlpreview.github.io/?https://raw.githubusercontent.com/Galactyce/Cookie-Recipe/main/Bakery%20Website.html
